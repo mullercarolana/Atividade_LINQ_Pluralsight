@@ -1,0 +1,27 @@
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.exe
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.deps.json
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.runtimeconfig.json
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.runtimeconfig.dev.json
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.dll
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.pdb
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.csproj.AssemblyReference.cache
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.AssemblyInfoInputs.cache
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.AssemblyInfo.cs
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.dll
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.pdb
+C:\Users\ana.STI\Desktop\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.genruntimeconfig.cache
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.exe
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.deps.json
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.runtimeconfig.json
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.runtimeconfig.dev.json
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.dll
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\bin\Debug\netcoreapp3.1\AtividadeLINQ.pdb
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.csproj.AssemblyReference.cache
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.AssemblyInfoInputs.cache
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.AssemblyInfo.cs
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.dll
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.pdb
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.genruntimeconfig.cache
+C:\Users\Ana Carolina\OneDrive\Área de Trabalho\AtividadeLINQ\AtividadeLINQ\obj\Debug\netcoreapp3.1\AtividadeLINQ.GeneratedMSBuildEditorConfig.editorconfig
